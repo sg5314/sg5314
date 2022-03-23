@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sg5314
+- 👀 I’m interested in Recommendation System, Web application
+- 🌱 I’m currently learning Django, Laravel, AWS, CI/CD

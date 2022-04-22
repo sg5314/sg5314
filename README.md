@@ -10,3 +10,6 @@
 - 👋 Hi, I’m @sg5314
 - 👀 I’m interested in Recommendation System, Web application
 - 🌱 I’m currently learning Django, Laravel, AWS, CI/CD
+
+- I am a research student at [ISDL](https://sites.google.com/view/doshisha-isdl)
+- I created [ISDL_Archive_System](http://isdl-archive.doshisha.ac.jp/) with my lab members

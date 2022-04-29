@@ -11,5 +11,5 @@
 - 👀 I’m interested in Recommendation System, Web application
 - 🌱 I’m currently learning Django, Laravel, AWS, CI/CD
 
-- I am a research student at [ISDL](https://sites.google.com/view/doshisha-isdl){:target="_blank"}
-- I created [ISDL_Archive_System](http://isdl-archive.doshisha.ac.jp/){:target="_blank"} with my lab members
+- I am a research student at <a href="https://sites.google.com/view/doshisha-isdl" target="_blank">ISDL</a>
+- I created <a href="http://isdl-archive.doshisha.ac.jp/" target="_blank">ISDL_Archive_System</a> with my lab members

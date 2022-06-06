@@ -7,7 +7,32 @@
 </a>
 </p>
 
-- 👋 Hi, I’m @sg5314
+# sg5314
+
+<div>
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="100"> 
+</div>
+<br>
+
+<div>
+  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+  <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/-MacOS-000000.svg?logo=macos&style=flat">
+  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
+</div>
+ 
+<div>
+  <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
+  <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
+</div>
+<br>
+
+
 - 👀 I’m interested in Recommendation System, Web application
 - 🌱 I’m currently learning Django, Laravel, AWS, CI/CD
 

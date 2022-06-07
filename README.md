@@ -32,7 +32,7 @@
 </div>
 <br>
 
-
+- 🔥 My research is a recommendation system that takes into account sensitivity
 - 👀 I’m interested in Recommendation System, Web application
 - 🌱 I’m currently learning Django, Laravel, AWS, CI/CD
 
